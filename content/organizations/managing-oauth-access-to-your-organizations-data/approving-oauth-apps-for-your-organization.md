@@ -1,3 +1,4 @@
+
 ---
 title: Approving OAuth apps for your organization
 intro: 'When an organization member or outside collaborator requests {% data variables.product.prodname_oauth_app %} access to organization resources, organization owners can approve or deny the request.'
