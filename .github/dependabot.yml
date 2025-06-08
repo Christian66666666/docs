@@ -1,4 +1,4 @@
-innan manversion: 2
+.github/dependabot.ymlinnan manversion: 2
 
 registries:
   ghcr: # Define access for a private registry
