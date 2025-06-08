@@ -1,4 +1,4 @@
-version: 2
+innan manversion: 2
 
 registries:
   ghcr: # Define access for a private registry
