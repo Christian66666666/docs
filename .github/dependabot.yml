@@ -1,4 +1,4 @@
-.github/dependabot.ymlinnan manversion: 2
+.github/dependabot.yml/dependabot.ymlinnan manversion: 2
 
 registries:
   ghcr: # Define access for a private registry
